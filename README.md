@@ -2,4 +2,4 @@
 
 This directory is the work I completed as an undergraduate researcher with the VT String Theory Group.
 
-<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="final_paper.pdf" class="image fit">Final Paper</a>
