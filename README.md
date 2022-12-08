@@ -2,7 +2,7 @@
 
 This directory is the work I completed as an undergraduate researcher with the <a href="https://www.phys.vt.edu/Research/TheoreticalParticlePhysicsandStringTheory.html">VT String Theory Group</a>. The research was fulfilled as a requirement for PHYS 4316 (Modern Experimental Physics) which is needed for completion of the BS in Physics.
 
-Here is the <a href="final_paper.pdf" class="image fit">final paper</a>. This was completed as the final assignment of PHYS 4316. The paper was not written with the purpose of being publihsedp; it only provides an outline of the project at an introductory level.
+Here is the <a href="final_paper.pdf" class="image fit">final paper</a>. This was completed as the final assignment of PHYS 4316. The paper was not written with the purpose of being published; it only provides an write-up of the project at an introductory level.
 
 Also included is a <a href="Compactifications of Metrics on Heterotic Total Spaces.pdf">powerpoint presentation</a> that was given the professor of PHYS 4316 and to the String Theory group at the end of the semester.
 
